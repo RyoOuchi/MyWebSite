@@ -107,6 +107,12 @@ a {
     border-bottom: 1px solid #000000;
 }
 
+.favorite {
+    background-image: url(images/favorite-background.png);
+    background-position: center;
+    background-size: cover;
+}
+
 @media (max-width: 768px){
     .school-club {
         flex-direction: column;
